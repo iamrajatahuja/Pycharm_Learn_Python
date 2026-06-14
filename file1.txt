@@ -1,0 +1,4 @@
+hello world
+Next Line
+This is for file handling purposes.hello world
+Next LineNew append

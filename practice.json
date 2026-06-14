@@ -1,0 +1,14 @@
+{
+    "student1": {
+        "age": false,
+        "name": "Raul"
+    },
+    "student2": {
+        "age": false,
+        "name": "Rudffdfd"
+    },
+    "student3": {
+        "age": true,
+        "name": "Ravioooo"
+    }
+}

@@ -1,0 +1,5 @@
+#Ignore local environment config files
+
+.vnv/
+.idea/
+__pycache__/
