@@ -26,6 +26,8 @@ print(s.find("l")) #returns -1 if not found
 print(s)
 print(s.index("l")) #returns ValueError if not found
 print(s.upper())
+print(s.lower())
+print(s.title())
 print(s.capitalize())
 print(s.startswith("he"))
 print(s[1:15:2])
