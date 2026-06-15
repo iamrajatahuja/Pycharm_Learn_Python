@@ -84,7 +84,7 @@ match_obj = re.search(pat, s1)
 print(match_obj)
 
 # * -> matches 0 or more previous character
-pat = r"[A-Z][a-z]?"
+pat = r"[A-Z][a-z]*"
 match_obj = re.search(pat, s1)
 print(match_obj)
 
